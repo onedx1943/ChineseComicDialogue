@@ -1,0 +1,2 @@
+# ChineseComicDialogue
+Chinese Comic Dialogue
